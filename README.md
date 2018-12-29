@@ -1,2 +1,2 @@
 # Machine_Learning_Demo
-本库用于存放自己实现的机器学习算法
+纯python实现机器学习算法
