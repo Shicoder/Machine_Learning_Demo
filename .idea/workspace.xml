@@ -133,8 +133,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="309" />
-    <option name="y" value="171" />
+    <option name="x" value="321" />
+    <option name="y" value="118" />
     <option name="width" value="1288" />
     <option name="height" value="830" />
   </component>
@@ -172,7 +172,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ftrl" />
       <recent name="$PROJECT_DIR$/tree" />
+      <recent name="$PROJECT_DIR$/tree/test" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
